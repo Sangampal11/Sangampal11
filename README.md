@@ -1,4 +1,4 @@
-# Hi, I'm Sangam Pal 👋
+# Hi, I'm Sangam Pal
 
 Full-Stack Developer focused on building scalable web and mobile applications.
 
