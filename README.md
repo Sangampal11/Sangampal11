@@ -12,41 +12,11 @@ I enjoy turning ideas into production-ready products by combining clean architec
 
 ## Tech Stack
 
-**Languages**
-
-C++ • Python • JavaScript • TypeScript • SQL
-
-**Backend**
-
-Node.js • Express.js • Django • FastAPI • REST APIs • WebSockets
-
-**Frontend & Mobile**
-
-Flutter • React • React Native • Next.js • HTML • CSS • Tailwind CSS
-
-**Databases**
-
-MongoDB • PostgreSQL • MySQL • Firebase
-
-**Tools & DevOps**
-
-Git • GitHub • Docker • Linux • AWS (S3)
-
-## Featured Projects
-
-### FuelFlux
-
-A production-ready fuel management platform built for real users with Flutter, Firebase, and a complete deployment pipeline.
-
-### KisanMitra
-
-An AI-powered agriculture platform featuring crop disease detection, weather insights, live market prices, and intelligent recommendations.
-
-### Study Planner
-
-A personalized AI study planner that generates adaptive study schedules, tracks progress, and helps students prepare efficiently.
-
-## Open Source
+**Languages**:- C++ • Python • JavaScript • TypeScript • SQL
+**Backend**:- Node.js • Express.js • Django • FastAPI • REST APIs • WebSockets
+**Frontend & Mobile**:- Flutter • React • React Native • Next.js • HTML • CSS • Tailwind CSS
+**Databases**:- MongoDB • PostgreSQL • MySQL • Firebase
+**Tools & DevOps**:- Git • GitHub • Docker • Linux • AWS (S3)
 
 I actively contribute to open-source projects, collaborate through pull requests, and enjoy improving existing software while learning from the community.
 
